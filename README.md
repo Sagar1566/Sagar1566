@@ -6,7 +6,7 @@
 
  MY PORTFOLIO :- [sagar15.vercel.app ](https://sagar15.vercel.app/)
 
-![Like this project](https://img.shields.io/badge/Like-❤️-red)
+[![Likes](https://img.shields.io/github/issues/detail/reactions/your-username/your-repo/1?label=Likes&style=social)](https://github.com/your-username/your-repo/issues/1)
 
 
 ## 🌟 About Me
