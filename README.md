@@ -47,7 +47,7 @@
 
 
 <h3 align="center">A passionate Full-Stack developer from Nagpur, India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar1566&label=Profile%2Likes&color=0e75b6&style=flat" alt="sagar1566" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar1566&label=Profile%200Likes&color=8B0000&style=flat" alt="sagar1566" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar1566&label=Profile%20views&color=0e75b6&style=flat" alt="sagar1566" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar1566" alt="sagar1566" /></a> </p>
