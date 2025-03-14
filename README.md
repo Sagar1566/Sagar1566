@@ -6,6 +6,7 @@
 
  MY PORTFOLIO :- [sagar15.vercel.app ](https://sagar15.vercel.app/)
 
+![Like](https://img.shields.io/badge/Likes-100-brightgreen?style=for-the-badge)
 
 
 
