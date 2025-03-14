@@ -1,4 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sagar Navnath Gajbhar</h1>
+# Hi there, I'm Sagar Navnath Gajbhar! 👋
+
+🚀 **MERN Stack Developer | AI Enthusiast | Designer**  
+🎨 Passionate about creativity, innovation, and building awesome projects!
+
+## 🌟 About Me
+- 🎓 **College:** JDCOE, Nagpur (1st Year, moving to 2nd Year in April 2025)
+- 🏆 **Hackathons:** Participated in Government College Hackathon, SB Jain Hackathon & AI-powered Bug Tracking System at another event
+- 🌍 **Learning:** Japanese (N5 level) & advancing in AI-powered applications
+- 🖌️ **Designer:** Bringing creativity into development
+
+## 🔥 Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 GitHub Stats
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar1566&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar1566&layout=compact&theme=tokyonight)
+
+## 📌 Projects
+- 🚀 **[MERN Stack Community App](https://github.com/sagar1566/mern-community-app)** - A platform for users to connect, like, comment & follow
+- 🤖 **[AI Bug Tracking System](https://github.com/sagar1566/ai-bug-tracker)** - Automating bug tracking for developers
+
+## 📬 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagar1566)
+
+
+
+
+
+
+
+
+
+
 <h3 align="center">A passionate Full-Stack developer from Nagpur, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar1566&label=Profile%20views&color=0e75b6&style=flat" alt="sagar1566" /> </p>
